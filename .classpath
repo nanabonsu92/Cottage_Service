@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JDK 8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/antlr-runtime-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/arq-2.8.7.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/aterm-java-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-fourstore-0.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-openrdf-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-2.4.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/cp-common-utils-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/ehcache-core-2.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/empire-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/empire-jena-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/empire-sesame-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/empire-sesame-test-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/empire-test-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guice-assistedinject-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guice-jmx-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/guice-throwingproviders-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/icu4j-3.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/iri-0.8.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/javassist.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/javax.inject.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/jena-2.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/jgrapht-jdk1.5.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/JSAP-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/json.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/lucene-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/openrdf-sesame-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/owlapi-bin.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/owlapi-src.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-cli.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-core.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-datatypes.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-dig.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-el.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-explanation.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-jena.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-modularity.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-owlapi.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-owlapiv3.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-pellint.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-query.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-rules.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/pellet-test.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/sdb-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kwaku Bonsu-Afrane/Desktop/My Lecture Slides/Semantic Technologies for Developers/Task 7/SSWAP_Service_2019/WebContent/WEB-INF/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/sswap.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/wstx-asl-3.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/xercesImpl-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/MyTemp/Piers/work/Teaching/TIES4371-IoT/sswap-1.0.14050/sswap-1.0.14050/lib/xsdlib.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
